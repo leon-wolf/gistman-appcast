@@ -33,7 +33,7 @@
       <sparkle:version>2</sparkle:version>
       <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/leon-wolf/gistman-releases/releases/download/v1.1.1/GistMan-1.1.1.dmg"
+      <enclosure url="https://github.com/leon-wolf/GistMan-Releases/releases/download/v1.1.1/GistMan.dmg"
                  sparkle:edSignature="Ff4Wo8XY7SQ1a/3GoeWlot1DIFNVluFkvd46qgRAVzMn0/xpsQqBDTn5aDZDZdV40gLLNNlqNMuOKAMSCOzXAA=="
                  length="3061549"
                  type="application/octet-stream"/>
